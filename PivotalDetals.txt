@@ -7,5 +7,11 @@ himaanshu.awasthi@gmail.com
 
 
 ----------------
+My Sql 
 
-Failed to start debugger: "System.InvalidOperationException: Debug session already started.\n  at OmniSharp.DotNetTest.DebugSessionManager.VerifySession (System.Boolean isStarted) [0x00055] in <d3572664edd744c5946b68c3335151ec>:0 \n  at OmniSharp.DotNetTest.DebugSessionManager.StartSession (OmniSharp.DotNetTest.TestManager testManager) [0x00011] in <d3572664edd744c5946b68c3335151ec>:0 \n  at OmniSharp.DotNetTest.Services.DebugTestService.Handle (OmniSharp.DotNetTest.Models.DebugTestGetStartInfoRequest request) [0x00015] in <d3572664edd744c5946b68c3335151ec>:0 \n  at OmniSharp.Endpoint.Exports.RequestHandlerExportHandler`2[TRequest,TResponse].Handle (TRequest request) [0x00000] in <150636dc45ea41d3a8efdf330bb7b52f>:0 \n  at OmniSharp.Endpoint.EndpointHandler`2[TRequest,TResponse].HandleSingleRequest (System.String language, TRequest request, OmniSharp.Protocol.RequestPacket packet) [0x0008a] in <150636dc45ea41d3a8efdf330bb7b52f>:0 \n  at OmniSharp.Endpoint.EndpointHandler`2[TRequest,TResponse].Process (OmniSharp.Protocol.RequestPacket packet, OmniSharp.Endpoint.LanguageModel model, Newtonsoft.Json.Linq.JToken requestObject) [0x0024b] in <150636dc45ea41d3a8efdf330bb7b52f>:0 \n  at OmniSharp.Stdio.Host.HandleRequest (System.String json, Microsoft.Extensions.Logging.ILogger logger) [0x000e7] in <cb48f4a2918a44a6886865ae1b4b14dc>:0 "
+Installation in Ubuntu :
+https://support.rackspace.com/how-to/installing-mysql-server-on-ubuntu/
+
+
+
+--------------------
